@@ -1,5 +1,5 @@
 # alpine-ttyd
-Alpine Docker Image with ttyd 
+Alpine Docker Image with ttyd-hl
 * problem: libwebsockets without -DLWS_WITH_LIBUV=ON breaks ttyd package
 * fixing the problem with https://github.com/void-linux/void-packages/issues/19441
 * fixing the problem with https://gitlab.alpinelinux.org/alpine/aports/-/issues/11936
